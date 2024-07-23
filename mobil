@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobil Muscle Car</title>
+</head>
+<body>
+    <h1>Mobil Muscle Car</h1>
+    <p>Mobil Dodge Challanger SRT</p>
+    <img src="hellcat.jpg" alt="" width="500">
+    <h3>Tentang Mobil Dodge Challanger</h3>
+    <p>Dodge Challenger adalah mobil yang diproduksi oleh Chrysler dan dipasarkan dengan merk Dodge. Mobil ini dipasarkan dengan 3 generasi berbeda, yang pertama muncul tahun 1969. Generasi pertama Dodge Challenger adalah mobil poni yang menggunakan platform E Chrysler, menggunakan banyak komponen yang sama dengan Plymouth Barracuda. Generasi kedua, 1978 sampai 1983, adalah badge engineered dari Mitsubishi Galant Lambda. Generasi ketiga diluncurkan awal 2008 sebagai rival Ford Mustang generasi kelima dan Chevrolet Camaro generasi kelima</p>
+    <ol>Daftar Model Muscle Car
+        <li>Ford Mustang</li>
+        <li>Chevrolet Camaro</li>
+        <li>Ford Shelby Mustang GT500</li>
+        <li>Dodge Challenger SRT Hellcat</li>
+    </ol>
+</body>
+</html>
